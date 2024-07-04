@@ -69,12 +69,15 @@ import inquirer from "inquirer";
 // });
 
 // // Question 12
-
-// let Guests_List : string[] = [" Carl," , " Sam," , " Richard,"];
-// let message : string = " Would you like to join me for dinner. ";
-// Guests_List.forEach(Guests_List => {
-//     console.log(Guests_List + message);
-// })
+// let Guests_List: string[] = ["Carl", "Sam", "Richard"];
+// let message: string = "Would you like to join me for dinner?";
+// Guests_List.forEach(guest => { 
+// console.log("Hey " + guest + " " + message);
+// });
+// 
+// 
+//     
+// 
 
 // //
 
